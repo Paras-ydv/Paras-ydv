@@ -50,3 +50,5 @@
 </picture>
 
 ###
+![Pacman Animation](https://paras-ydv.github.io/Paras-ydv/pacman-contribution-graph.svg)
+
