@@ -1,43 +1,67 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+👋 Hey there!
 
-###
+I’m **Paras**, a **Computer Science and Business Systems** student at *BMS College of Engineering, Bangalore*,  
+on a mission to turn ☕ into clean, efficient code (well… most of the time 😅).
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+---
+
+### 💻 What I Do
+- **🏆 Competitive Programming** – Solved **650+ problems** on **Leetcode** and counting!
+- **🌐 Web Development** – From HTML/CSS basics to building full-stack apps with modern frameworks.
+- **📚 Lifelong Learning** – Always exploring new technologies, tools, and ways to improve.
+- **🐞 Debugging Enthusiast** – I debug my code like a detective… except the culprit is usually me.
+
+---
+
+### 🚀 Fun Facts
+- Competitive Programming keeps my brain wired like a puzzle master.  
+- Web Development lets me bring ideas to life (and occasionally to bugs 🐛).
+- My browser has more tabs open than I have solved problems.
+
+---
+
+## 🛠 Skills
+
+### 🌐 Web Development
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img 
+      src="https://skillicons.dev/icons?i=html,css,js,tailwind,vite,react,nodejs,nextjs&perline=10" 
+      style="width: 430px; height: auto;"
+    />
+  </a>
 </div>
 
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/paras-yadav2004/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-</a>
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <a href="https://leetcode.com/u/paras_ydv/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="25" alt="leetcode logo" />
-
-<!--   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  /> -->
-<!--   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  /> -->
-<!--   <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  /> -->
+<!-- Programming Languages -->
+### 💻 Programming Languages
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img 
+      src="https://skillicons.dev/icons?i=cpp,c,py,java&perline=10" 
+      style="width: 200px; height: auto;"
+    />
+  </a>
 </div>
+
+### ⚙️ Tools & Platforms
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img 
+      src="https://skillicons.dev/icons?i=vscode,bash,git,github,mongodb,mysql,matlab,gcp,windows,apple&perline=10" 
+      style="width: 580px; height: auto;"
+    />
+  </a>
+</div>
+
+
+### 🤝 Connect with Me
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&size=60)](https://www.linkedin.com/in/paras-yadav2004)
+[![Instagram](https://skillicons.dev/icons?i=instagram&size=60)](https://www.instagram.com/parasydv_2004/)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="45" />](https://leetcode.com/u/paras_ydv/)
+
+
+
 
 ###
 
