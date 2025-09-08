@@ -27,8 +27,8 @@ on a mission to turn ☕ into clean, efficient code (well… most of the time �
 <div align="left">
   <a href="https://skillicons.dev">
     <img 
-      src="https://skillicons.dev/icons?i=html,css,js,tailwind,vite,react,nodejs,nextjs&perline=10" 
-      style="width: 430px; height: auto;"
+      src="https://skillicons.dev/icons?i=html,css,js,tailwind,threejs,vite,react,nodejs,nextjs,npm&perline=10" 
+      style="width: 450px; height: auto;"
     />
   </a>
 </div>
