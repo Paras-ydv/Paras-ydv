@@ -1,5 +1,5 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-👋 Hey there!
+👋 Hey there!!
 
 I’m **Paras**, a **Computer Science and Business Systems** student at *BMS College of Engineering, Bangalore*,  
 on a mission to turn ☕ into clean, efficient code (well… most of the time 😅).
