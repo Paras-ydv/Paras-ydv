@@ -61,7 +61,7 @@ on a mission to turn ☕ into clean, efficient code (well… most of the time �
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="45" />](https://leetcode.com/u/paras_ydv/)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Paras-ydv&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Paras-ydv&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="Profile views" />
 </p>
 
 ###
