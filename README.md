@@ -60,11 +60,11 @@ on a mission to turn ☕ into clean, efficient code (well… most of the time �
 [![Instagram](https://skillicons.dev/icons?i=instagram&size=60)](https://www.instagram.com/parasydv_2004/)
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="45" />](https://leetcode.com/u/paras_ydv/)
 
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Paras-ydv&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 ###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Paras-ydv&cache_seconds=86400&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" width="34%" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paras-ydv&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="26%" alt="languages graph" />
