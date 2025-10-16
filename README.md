@@ -20,6 +20,12 @@ on a mission to turn ☕ into clean, efficient code (well… most of the time �
 - My browser has more tabs open than I have solved problems.
 
 ---
+<h3 align="left">Holopin Hacktoberfest Badges:</h3>
+<p align="left">
+  <a href="https://holopin.io/@parasydv">
+    <img src="https://holopin.me/@parasydv" alt="Paras' Holopin badges" />
+  </a>
+</p>
 
 ## 🛠 Skills
 
