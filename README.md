@@ -1,10 +1,27 @@
+<!-- 🎯 Animated Web Developer Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/1ZvVkDc.gif" alt="Web Developer Banner" width="100%" />
+</p>
+
+<h1 align="center">👋 Hi, I'm <span style="color:#5D8BF4;">Paras Yadav</span></h1>
+<h3 align="center"> Full Stack Web Developer | Open Source Contributor | Continuous Learner </h3>
+
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=500&color=A5B4FC&center=true&vCenter=true&width=500&height=40&lines=MERN+Stack+Developer;Clean+Code+Enthusiast;Problem+Solver" alt="MERN Stack Developer" />
+</h3>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Paras-ydv&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="Profile views" />
+</div>
+
+---
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 👋 Hey there!!
 
 I’m **Paras**, a **Computer Science and Business Systems** student at *BMS College of Engineering, Bangalore*,  
 on a mission to turn ☕ into clean, efficient code (well… most of the time 😅).
-
----
+##
 
 ### 💻 What I Do
 - **🏆 Competitive Programming** – Solved **650+ problems** on **Leetcode** and counting!
@@ -12,15 +29,16 @@ on a mission to turn ☕ into clean, efficient code (well… most of the time �
 - **📚 Lifelong Learning** – Always exploring new technologies, tools, and ways to improve.
 - **🐞 Debugging Enthusiast** – I debug my code like a detective… except the culprit is usually me.
 
----
+##
 
 ### 🚀 Fun Facts
 - Competitive Programming keeps my brain wired like a puzzle master.  
 - Web Development lets me bring ideas to life (and occasionally to bugs 🐛).
 - My browser has more tabs open than I have solved problems.
+  
 
----
-<h3 align="left">Holopin Hacktoberfest Badges:</h3>
+<!-- <h3 align="left">🏆 Holopin Hacktoberfest Badges:</h3>  -->
+## 🏆 **Hacktoberfest 2025**
 <p align="left">
   <a href="https://holopin.io/@parasydv">
     <img src="https://holopin.me/@parasydv" alt="Paras' Holopin badges" />
@@ -28,7 +46,6 @@ on a mission to turn ☕ into clean, efficient code (well… most of the time �
 </p>
 
 ## 🛠 Skills
-
 ### 🌐 Web Development
 <div align="left">
   <a href="https://skillicons.dev">
@@ -40,6 +57,7 @@ on a mission to turn ☕ into clean, efficient code (well… most of the time �
 </div>
 
 <!-- Programming Languages -->
+
 ### 💻 Programming Languages
 <div align="left">
   <a href="https://skillicons.dev">
@@ -54,7 +72,7 @@ on a mission to turn ☕ into clean, efficient code (well… most of the time �
 <div align="left">
   <a href="https://skillicons.dev">
     <img 
-      src="https://skillicons.dev/icons?i=vscode,bash,git,github,mongodb,mysql,matlab,gcp,windows,apple&perline=10" 
+      src="https://skillicons.dev/icons?i=vscode,bash,git,github,docker,kubernetes,mongodb,mysql,matlab,gcp,windows,apple&perline=10" 
       style="width: 580px; height: auto;"
     />
   </a>
@@ -66,9 +84,9 @@ on a mission to turn ☕ into clean, efficient code (well… most of the time �
 [![Instagram](https://skillicons.dev/icons?i=instagram&size=60)](https://www.instagram.com/parasydv_2004/)
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="45" />](https://leetcode.com/u/paras_ydv/)
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Paras-ydv&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="Profile views" />
-</p>
+</p> -->
 
 ###
 <div align="center">
