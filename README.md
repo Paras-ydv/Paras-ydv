@@ -1,10 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:3B82F6,100:60A5FA&height=120&section=header" width="100%" alt="" />
+<p align="center">
+  <img src="https://i.imgur.com/1ZvVkDc.gif" alt="Web Developer Banner" width="100%" />
+</p>
 
 <h1 align="center">Paras</h1>
 <p align="center"><b>Software Engineer</b> &nbsp;·&nbsp; Systems, Android and Applied ML</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=700&color=3B82F6&center=true&vCenter=true&width=640&height=40&lines=Google+Summer+of+Code+2026+%40+Catrobat;Samsung+PRISM+R%26D+Intern;SDE+Intern+%40+NatWest+Group;MQTT+shipped+to+1M%2B+Android+users" alt="" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=700&color=3B82F6&center=true&vCenter=true&width=640&height=40&lines=Google+Summer+of+Code+2026+%40+Catrobat;Samsung+R%26D+Intern;Ex-SDE+Intern+%40+NatWest+Group;Distributed+systems%2C+concurrency+and+applied+ML" alt="" />
 </p>
 
 <p align="center">
@@ -28,9 +30,9 @@ Backend, Android and applied ML. So far I've been out-argued by a Wi-Fi radio, c
 
 **Samsung PRISM** · *R&D Intern* — modelling **Wi-Fi RTT (IEEE 802.11mc)** ranging accuracy. Built the Android capture app, collected 599 ground-truth measurements, and cut mean absolute error **31%** below the strongest analytical baseline.
 
-**NatWest Group** · *SDE Intern* — **DORA**, a multi-agent system for enterprise data-product discovery. Owned the Context Inference Engine: lineage-graph traversal, Leiden community detection, and LLM domain inference behind grounding validation that rejects hallucinated entity IDs.
+**NatWest Group** · *Ex-SDE Intern* — **DORA**, a multi-agent system for enterprise data-product discovery. Owned the Context Inference Engine: lineage-graph traversal, Leiden community detection, and LLM domain inference behind grounding validation that rejects hallucinated entity IDs.
 
-**Revdau AI** · *SWE Intern* — real-time voice agents. Twilio media streams → VAD → STT → streaming LLM → TTS, with barge-in so the agent stops the instant you interrupt it.
+**Revdau AI** · *Ex-SWE Intern* — real-time voice agents. Twilio media streams → VAD → STT → streaming LLM → TTS, with barge-in so the agent stops the instant you interrupt it.
 
 ## Selected work
 
